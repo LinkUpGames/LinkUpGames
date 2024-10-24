@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center">[Check My Website For More Info!](https://linkupgames.github.io/portfolio/)</h4>
+<a align="center" href="https://linkupgames.github.io/portfolio/">Check My Website For More Info!</a>
 
 ## Amount Me
 
