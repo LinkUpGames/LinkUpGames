@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 * I am currently working at [Fill it Forward](https://fillitforward.com/about/) as a **Junior Software Developer**
 
-* I enjoy learning new tools and new concepts every day. I have a particular interest in compilers and how programming languages are designed. I am currently interested in learning
+* I enjoy learning new tools and new concepts every day. I have a particular interest in compilers and how programming languages are designed. I am currently learning how to use Go to create a compiler for a custom made language.
 
 * I have worked previously as a Game Developer hobbyist under the alias of [LinkUp Games](https://www.linkupgames.com/) and as a game programmer at [Other Ocean Interactive](https://projectwinter.co/)
 
