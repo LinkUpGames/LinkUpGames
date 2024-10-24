@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**[Check My Website For More Info!](https://linkupgames.github.io/portfolio/)**
+<h4 align="center">[Check My Website For More Info!](https://linkupgames.github.io/portfolio/)</h4>
 
 ## Amount Me
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 * I have worked previously as a Game Developer hobbyist under the alias of [LinkUp Games](https://www.linkupgames.com/) and as a game programmer at [Other Ocean Interactive](https://projectwinter.co/)
 
-<div style="margin-right: auto; margin-left: auto;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkUpGames&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkUpGames&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fun Facts
 
