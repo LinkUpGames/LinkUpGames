@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ## Amount Me
 
-* I am a 4th year Computer Science student at the University of Guelph. I will be graduating this year.
-
 * I am currently working at [Fill it Forward](https://fillitforward.com/about/) as a **Junior Software Developer**
 
 * I enjoy learning new tools and new concepts every day. I have a particular interest in compilers and how programming languages are designed. I am currently learning how to use Go to create a compiler for a custom made language.
