@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * I have worked previously as a Game Developer hobbyist under the alias of [LinkUp Games](https://www.linkupgames.com/) and as a game programmer at [Other Ocean Interactive](https://projectwinter.co/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkUpGames&layout=compact&theme=dracula&hide=glsl,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkUpGames&layout=compact&theme=dracula&hide=glsl,css,javascript,powershell)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fun Facts
 
