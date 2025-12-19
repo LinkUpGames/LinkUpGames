@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Amount Me
 
-* I am currently working at [Fill it Forward](https://fillitforward.com/about/) as a **Junior Software Developer**
+* I am currently working at [Fill it Forward](https://fillitforward.com/about/) as a **Junior Software Developer**. I work as a fullstack developer, utilizing AWS services for managing infrastructure, alongside Node, GraphQL and React for supplementing backend and frontend work.
 
-* I enjoy learning new tools and new concepts every day. I have a particular interest in compilers and how programming languages are designed. I am currently learning how to use Go to create a compiler for a custom made language.
+* I enjoy learning new tools and new concepts every day. I have a particular interest in compilers and how programming languages are designed. I am currently learning how [Tree Sitter](https://tree-sitter.github.io/tree-sitter/) works for designing a grammar based on [GML](https://manual.gamemaker.io/monthly/en/GameMaker_Language.htm)
 
 * I have worked previously as a Game Developer hobbyist under the alias of [LinkUp Games](https://www.linkupgames.com/) and as a game programmer at [Other Ocean Interactive](https://projectwinter.co/)
 
