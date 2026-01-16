@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Where to reach me
 
-[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjcevallos007@gmail.com)
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cevallos@proton.me)
 <a href="https://www.linkedin.com/in/marcos-cevallos-lug/" target="_blank">
   <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
